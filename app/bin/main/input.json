@@ -1,0 +1,38 @@
+{
+  "name": "test",
+  "age": 25,
+  "books": [
+    {
+      "bookname": "The Lord of the Rings",
+      "author": "Jane Doe",
+      "year": 1990,
+      "awards": [
+        {
+          "awardname": "book of the year",
+          "score": 100
+        },
+        {
+          "awardname": "best seller",
+          "score": 120
+        }
+      ]
+    }
+  ],
+  "skillset": {
+    "java": {
+      "score": 100,
+      "frameworks": [
+        "spring",
+        "gradle"
+      ]
+    },
+    "javascript": {
+      "score": 125,
+      "frameworks": [
+        "Angular",
+        "React",
+        "Vue"
+      ]
+    }
+  }
+}
